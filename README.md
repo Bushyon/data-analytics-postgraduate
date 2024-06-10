@@ -1,2 +1,2 @@
 # data-analytics-postgraduate
-Repo to notes studies in data analytics.
+Repo to notes and studies in data analytics.
